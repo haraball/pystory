@@ -19,7 +19,7 @@ with open('LICENSE') as f:
 
 setup(
     name='pystory',
-    version='0.1',
+    version='0.2',
     description='A virtual environment utility for saving the commands you use in python projects.',
     long_description=readme,
     author='Harald Kirkerød',
